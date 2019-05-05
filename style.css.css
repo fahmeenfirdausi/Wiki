@@ -1,0 +1,64 @@
+header {
+    font-size: 12px;
+    border: 0px;
+    border-top-color: #f9f6f9;
+    border-top-style: solid;
+    padding-top: 0px;
+    background-color: #f3f7fb;
+}
+.wikipic {
+    height: 170px;
+    position: absolute;
+    top: 10px;
+}
+
+.searchicon {
+    height: 14px;
+    margin-left: -28px;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.Nav-row-1 {
+    float: right;
+}
+
+.ul-row-1 {
+    display: flex;
+}
+
+.li-row-1 {
+    list-style: none;
+    padding-right: 10px;
+}
+
+
+
+
+.paraghaph{
+
+    text-align: center;
+    position: absolute;
+    top: 163px;
+    width: 700px;
+    left: 260px;
+  
+  }
+
+footer {
+    background-color: whitesmoke;
+}
+
+.footerimages {
+    position: absolute;
+    right: 2px;
+}
+
+
+
+
+
+
+
